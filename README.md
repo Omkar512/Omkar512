@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omkar512
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently studying B Tech at Sardar Patel Institute Of Technology, Mumbai
+- 🌱 I’m currently studying B Tech at Sardar Patel Institute Of Technology, Mumbai. Incoming Analyst at Barclays
 - 📫 Reach me omkar.bandgar@spit.ac.in
 
 <!---
